@@ -277,3 +277,5 @@ THE SOFTWARE.
   }
 
 })(this);
+
+cheet('↑ ↑ ↓ ↓ ← → ← → j k', function () { alert('JK was here! :)'); });
