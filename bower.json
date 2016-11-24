@@ -1,14 +1,9 @@
 {
-  "name": "cheet.js",
+  "name": "cheet.jk",
   "version": "0.3.1",
-  "description": "easy easter eggs (konami code, etc) for your site",
+  "description": "jk's cheet.js",
   "keywords": [
-    "cheet",
-    "cheat",
-    "easter",
-    "eggs",
-    "keyboard",
-    "silly"
+    "jk"
   ],
   "license": "MIT",
   "ignore": [
@@ -16,7 +11,16 @@
     "tests/",
     "node_modules/",
     "Makefile",
-    "package.json"
+    "package.json",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
-  "main": "cheet.js"
+  "main": "cheet.jk",
+  "homepage": "https://github.com/the-AjK/cheet.js",
+  "authors": [
+    "the_AjK <alberto.garbui@gmail.com>"
+  ]
 }
